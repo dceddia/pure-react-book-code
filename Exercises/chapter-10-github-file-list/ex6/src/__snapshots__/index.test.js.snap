@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<ul
+  className="board"
+>
+  <li>
+    <div
+      className="card"
+    >
+      <div
+        className="images"
+      >
+        <img
+          alt="AVIATION"
+          className="main"
+          src="787.jpg"
+        />
+        <img
+          alt="preview 1"
+          className="sub1"
+          src="sub1.jpg"
+        />
+        <img
+          alt="preview 2"
+          className="sub2"
+          src="sub2.jpg"
+        />
+      </div>
+      <div
+        className="summary"
+      >
+        <h3
+          className="title"
+        >
+          AVIATION
+        </h3>
+        <div
+          className="pin-count"
+        >
+          <strong>
+            641
+          </strong>
+           Pins
+        </div>
+      </div>
+      <button
+        className="follow-btn"
+      >
+        Follow
+      </button>
+    </div>
+  </li>
+  <li>
+    <div
+      className="card"
+    >
+      <div
+        className="images"
+      >
+        <img
+          alt="Exceptional Aviation"
+          className="main"
+          src="787.jpg"
+        />
+        <img
+          alt="preview 1"
+          className="sub1"
+          src="sub1.jpg"
+        />
+        <img
+          alt="preview 2"
+          className="sub2"
+          src="sub2.jpg"
+        />
+      </div>
+      <div
+        className="summary"
+      >
+        <h3
+          className="title"
+        >
+          Exceptional Aviation
+        </h3>
+        <div
+          className="pin-count"
+        >
+          <strong>
+            209
+          </strong>
+           Pins
+        </div>
+      </div>
+      <button
+        className="follow-btn"
+      >
+        Follow
+      </button>
+    </div>
+  </li>
+  <li>
+    <div
+      className="card"
+    >
+      <div
+        className="images"
+      >
+        <img
+          alt="Aerospace"
+          className="main"
+          src="787.jpg"
+        />
+        <img
+          alt="preview 1"
+          className="sub1"
+          src="sub1.jpg"
+        />
+        <img
+          alt="preview 2"
+          className="sub2"
+          src="sub2.jpg"
+        />
+      </div>
+      <div
+        className="summary"
+      >
+        <h3
+          className="title"
+        >
+          Aerospace
+        </h3>
+        <div
+          className="pin-count"
+        >
+          <strong>
+            1545
+          </strong>
+           Pins
+        </div>
+      </div>
+      <button
+        className="follow-btn"
+      >
+        Follow
+      </button>
+    </div>
+  </li>
+</ul>
+`;

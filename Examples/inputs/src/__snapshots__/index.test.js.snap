@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<div>
+  <div>
+    Here is a controlled input:
+  </div>
+  <input
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+  <br />
+  <br />
+  <div>
+    Here is the same thing as a class:
+  </div>
+  <input
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+  <br />
+  <br />
+  <div>
+    Here's a trick input (try typing):
+  </div>
+  <input
+    onChange={[Function]}
+    type="text"
+    value="try typing something"
+  />
+  <br />
+  <br />
+  <div>
+    This input does not accept numbers:
+  </div>
+  <input
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+  <br />
+  <br />
+  <div>
+    This input is uncontrolled:
+  </div>
+  <input
+    type="text"
+  />
+  <br />
+  <br />
+  <div>
+    This input is uncontrolled, but uses a ref to get the value when you click the button:
+  </div>
+  <div>
+    <input
+      type="text"
+    />
+    <button
+      onClick={[Function]}
+    >
+      Alert the Value!
+    </button>
+  </div>
+  <br />
+  <br />
+  <div>
+    <code>
+      textarea
+    </code>
+     values should be set with the 
+    <code>
+      value
+    </code>
+     or
+     
+    <code>
+      defaultValue
+    </code>
+     props, not with children:
+  </div>
+  <textarea
+    defaultValue="Default value (uncontrolled)"
+  />
+  <br />
+  <br />
+  <div>
+    The 
+    <code>
+      select
+    </code>
+     element works differently than in HTML:
+  </div>
+  <div>
+    <div>
+      The selected value is
+       
+      (nothing)
+    </div>
+    <select
+      onChange={[Function]}
+      value=""
+    >
+      <option
+        value=""
+      >
+        --
+      </option>
+      <option
+        value="MA"
+      >
+        Massachusetts
+      </option>
+      <option
+        value="ME"
+      >
+        Maine
+      </option>
+      <option
+        value="VT"
+      >
+        Vermont
+      </option>
+      <option
+        value="NH"
+      >
+        New Hampshire
+      </option>
+      <option
+        value="RI"
+      >
+        Rhode Island
+      </option>
+    </select>
+  </div>
+  <br />
+  <br />
+</div>
+`;

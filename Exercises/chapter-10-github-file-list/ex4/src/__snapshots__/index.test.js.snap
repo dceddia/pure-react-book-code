@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<div
+  className="board"
+>
+  <h4
+    className="board-title"
+  >
+    A Demo
+  </h4>
+  <div
+    className="board-lists"
+  >
+    <div
+      className="list"
+    >
+      <h4
+        className="list-title"
+      >
+        Phone Features
+      </h4>
+      <ul
+        className="list-items"
+      >
+        <li
+          className="list-item"
+        >
+          Subwoofer
+        </li>
+        <li
+          className="list-item"
+        >
+          Non-porous, washable
+        </li>
+        <li
+          className="list-item"
+        >
+          Wings
+        </li>
+        <li
+          className="list-item"
+        >
+          Beveled Bezel
+        </li>
+        <li
+          className="list-item"
+        >
+          Bezeled Bevel
+        </li>
+        <li
+          className="list-item"
+        >
+          Seedless
+        </li>
+      </ul>
+      <div
+        className="add-card"
+      >
+        Add a card...
+      </div>
+    </div>
+    <div
+      className="list"
+    >
+      <h4
+        className="list-title"
+      >
+        Lyrics
+      </h4>
+      <ul
+        className="list-items"
+      >
+        <li
+          className="list-item"
+        >
+          This was a triumph
+        </li>
+        <li
+          className="list-item"
+        >
+          I'm making a note here
+        </li>
+        <li
+          className="list-item"
+        >
+          HUGE SUCCESS
+        </li>
+        <li
+          className="list-item"
+        >
+          It's hard to overstate my satisfaction
+        </li>
+      </ul>
+      <div
+        className="add-card"
+      >
+        Add a card...
+      </div>
+    </div>
+  </div>
+</div>
+`;

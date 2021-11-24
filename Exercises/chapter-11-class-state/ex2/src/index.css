@@ -1,0 +1,22 @@
+* {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+body {
+  line-height: 1.5em;
+}
+
+.on {
+  color: green;
+  text-transform: uppercase;
+}
+.off {
+  color: red;
+  text-transform: uppercase;
+}
+button {
+  margin: 5px;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  background: #eee;
+}

@@ -1,0 +1,245 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <nav
+    className="App-nav"
+  >
+    <ul>
+      <li
+        className="App-nav-item selected"
+      >
+        <a
+          onClick={[Function]}
+        >
+          Items
+        </a>
+      </li>
+      <li
+        className="App-nav-item false"
+      >
+        <a
+          onClick={[Function]}
+        >
+          Cart
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <main
+    className="App-content"
+  >
+    <ul
+      className="ItemPage-items"
+    >
+      <li
+        className="ItemPage-item"
+      >
+        <div
+          className="Item"
+        >
+          <div
+            className="Item-left"
+          >
+            <div
+              className="Item-image"
+            />
+            <div
+              className="Item-title"
+            >
+              Apple iPad Mini 2 16GB
+            </div>
+            <div
+              className="Item-description"
+            >
+              An iPad like no other. 16GB, WiFi, 4G.
+            </div>
+          </div>
+          <div
+            className="Item-right"
+          >
+            <div
+              className="Item-price"
+            >
+              $
+              229
+            </div>
+            <button
+              className="Item-addToCart"
+              onClick={[Function]}
+            >
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </li>
+      <li
+        className="ItemPage-item"
+      >
+        <div
+          className="Item"
+        >
+          <div
+            className="Item-left"
+          >
+            <div
+              className="Item-image"
+            />
+            <div
+              className="Item-title"
+            >
+              Apple iPad Mini 2 32GB
+            </div>
+            <div
+              className="Item-description"
+            >
+              Even larger than the 16GB.
+            </div>
+          </div>
+          <div
+            className="Item-right"
+          >
+            <div
+              className="Item-price"
+            >
+              $
+              279
+            </div>
+            <button
+              className="Item-addToCart"
+              onClick={[Function]}
+            >
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </li>
+      <li
+        className="ItemPage-item"
+      >
+        <div
+          className="Item"
+        >
+          <div
+            className="Item-left"
+          >
+            <div
+              className="Item-image"
+            />
+            <div
+              className="Item-title"
+            >
+              Canon T7i
+            </div>
+            <div
+              className="Item-description"
+            >
+              DSLR camera with lots of megapixels.
+            </div>
+          </div>
+          <div
+            className="Item-right"
+          >
+            <div
+              className="Item-price"
+            >
+              $
+              749.99
+            </div>
+            <button
+              className="Item-addToCart"
+              onClick={[Function]}
+            >
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </li>
+      <li
+        className="ItemPage-item"
+      >
+        <div
+          className="Item"
+        >
+          <div
+            className="Item-left"
+          >
+            <div
+              className="Item-image"
+            />
+            <div
+              className="Item-title"
+            >
+              Apple Watch Sport
+            </div>
+            <div
+              className="Item-description"
+            >
+              A watch
+            </div>
+          </div>
+          <div
+            className="Item-right"
+          >
+            <div
+              className="Item-price"
+            >
+              $
+              249.99
+            </div>
+            <button
+              className="Item-addToCart"
+              onClick={[Function]}
+            >
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </li>
+      <li
+        className="ItemPage-item"
+      >
+        <div
+          className="Item"
+        >
+          <div
+            className="Item-left"
+          >
+            <div
+              className="Item-image"
+            />
+            <div
+              className="Item-title"
+            >
+              Apple Watch Silver
+            </div>
+            <div
+              className="Item-description"
+            >
+              A more expensive watch
+            </div>
+          </div>
+          <div
+            className="Item-right"
+          >
+            <div
+              className="Item-price"
+            >
+              $
+              599.99
+            </div>
+            <button
+              className="Item-addToCart"
+              onClick={[Function]}
+            >
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </main>
+</div>
+`;

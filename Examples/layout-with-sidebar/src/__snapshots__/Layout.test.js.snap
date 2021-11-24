@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`hides the sidebar 1`] = `
+<Layout>
+  <div
+    className="layout"
+  >
+    <Content
+      isSidebarVisible={false}
+      onShowSidebar={[Function]}
+    >
+      <div
+        className="content"
+      >
+        some content here
+        <button
+          onClick={[Function]}
+        >
+          Show
+        </button>
+      </div>
+    </Content>
+  </div>
+</Layout>
+`;
+
+exports[`renders properly 1`] = `
+<Layout>
+  <div
+    className="layout"
+  >
+    <Content
+      isSidebarVisible={false}
+      onShowSidebar={[Function]}
+    >
+      <div
+        className="content"
+      >
+        some content here
+        <button
+          onClick={[Function]}
+        >
+          Show
+        </button>
+      </div>
+    </Content>
+  </div>
+</Layout>
+`;
+
+exports[`renders the sidebar 1`] = `
+<Layout>
+  <div
+    className="layout"
+  >
+    <Sidebar
+      onHide={[Function]}
+    >
+      <div
+        className="sidebar"
+      >
+        some sidebar content
+        <button
+          onClick={[Function]}
+        >
+          Hide
+        </button>
+      </div>
+    </Sidebar>
+    <Content
+      isSidebarVisible={true}
+      onShowSidebar={[Function]}
+    >
+      <div
+        className="content"
+      >
+        some content here
+      </div>
+    </Content>
+  </div>
+</Layout>
+`;

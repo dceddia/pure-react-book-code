@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<div
+  className="tweet"
+>
+  <img
+    alt="avatar"
+    className="avatar"
+    src="https://www.gravatar.com/avatar/xyz"
+  />
+  <div
+    className="content"
+  >
+    <span
+      className="author"
+    >
+      <span
+        className="name"
+      >
+        IAMA Cat Person
+      </span>
+      <span
+        className="handle"
+      >
+        @
+        catperson
+      </span>
+    </span>
+    <span
+      className="time"
+    >
+      10 months ago
+    </span>
+    <div
+      className="message"
+    >
+      Something about cats.
+    </div>
+    <div
+      className="buttons"
+    >
+      <i
+        className="fa fa-reply reply-button"
+      />
+      <span
+        className="retweet-button"
+      >
+        <i
+          className="fa fa-retweet"
+        />
+        <span
+          className="retweet-count"
+        >
+          17
+        </span>
+      </span>
+      <span
+        className="like-button"
+      >
+        <i
+          className="fa fa-heart"
+        />
+        <span
+          className="like-count"
+        >
+          2
+        </span>
+      </span>
+      <i
+        className="fa fa-ellipsis-h more-options-button"
+      />
+    </div>
+  </div>
+</div>
+`;

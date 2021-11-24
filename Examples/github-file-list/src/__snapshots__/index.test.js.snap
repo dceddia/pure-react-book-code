@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<table
+  className="file-list"
+>
+  <tbody>
+    <tr
+      className="file-list-item"
+    >
+      <td
+        className="file-icon"
+      >
+        <i
+          className="fa fa-folder"
+        />
+      </td>
+      <td
+        className="file-name"
+      >
+        src
+      </td>
+      <td
+        className="commit-message"
+      >
+        Initial commit
+      </td>
+      <td
+        className="age"
+      >
+        <span
+          className="time"
+        >
+          10 months ago
+        </span>
+      </td>
+    </tr>
+    <tr
+      className="file-list-item"
+    >
+      <td
+        className="file-icon"
+      >
+        <i
+          className="fa fa-folder"
+        />
+      </td>
+      <td
+        className="file-name"
+      >
+        tests
+      </td>
+      <td
+        className="commit-message"
+      >
+        Initial commit
+      </td>
+      <td
+        className="age"
+      >
+        <span
+          className="time"
+        >
+          10 months ago
+        </span>
+      </td>
+    </tr>
+    <tr
+      className="file-list-item"
+    >
+      <td
+        className="file-icon"
+      >
+        <i
+          className="fa fa-file-text-o"
+        />
+      </td>
+      <td
+        className="file-name"
+      >
+        README
+      </td>
+      <td
+        className="commit-message"
+      >
+        Added a readme
+      </td>
+      <td
+        className="age"
+      >
+        <span
+          className="time"
+        >
+          10 months ago
+        </span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

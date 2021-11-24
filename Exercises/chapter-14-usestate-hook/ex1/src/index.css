@@ -1,0 +1,24 @@
+html,
+body,
+#root,
+.room {
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  font-family: 'Georgia', serif;
+  font-size: 20px;
+}
+
+.room {
+  padding: 30px;
+}
+
+.lit {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}

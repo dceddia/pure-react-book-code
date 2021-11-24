@@ -1,0 +1,433 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="col-xs-12"
+    >
+      <div
+        className="panel panel-default genre-cloud"
+      >
+        <div
+          className="panel-heading"
+        >
+          <h3
+            className="panel-title"
+          >
+            Popular Genres
+          </h3>
+        </div>
+        <div
+          className="panel-body"
+        >
+          <button
+            className="btn btn-default btn-lg"
+          >
+            Jazz
+          </button>
+          <button
+            className="btn btn-default btn-lg"
+          >
+            Top 40
+          </button>
+          <button
+            className="btn btn-default btn-lg"
+          >
+            Country
+          </button>
+          <button
+            className="btn btn-default btn-lg"
+          >
+            Blues
+          </button>
+          <button
+            className="btn btn-default btn-lg"
+          >
+            Easy Listening
+          </button>
+          <button
+            className="btn btn-default btn-lg"
+          >
+            Rock
+          </button>
+          <button
+            className="btn btn-default btn-lg"
+          >
+            Classical
+          </button>
+          <button
+            className="btn btn-default btn-lg"
+          >
+            80s
+          </button>
+          <button
+            className="btn btn-default btn-lg"
+          >
+            Chillout
+          </button>
+          <button
+            className="btn btn-default btn-lg"
+          >
+            Oldies
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Dance
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Trance
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Reggae
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Ambient
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Hip Hop
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Smooth Jazz
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            70s
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            House
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Lounge
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Metal
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Drum And Bass
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Meditation
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Techno
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Heavy Metal
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Soul
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            60s
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Pop
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Psytrance
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            Bollywood
+          </button>
+          <button
+            className="btn btn-default btn-md"
+          >
+            90s
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Latin
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            50s
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Funk
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Rap
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Rockabilly
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Hindi
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Greek
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Minimal
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Comedy
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Alternative
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Bluegrass
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            New Age
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Edm
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Manele
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Reggaeton
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Salsa
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Swing
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Disco
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Japanese
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Classic Rock
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Chill
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Electronic
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Dancehall
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Talk
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Rnb
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Psychedelic
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Dub
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Dubstep
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Progressive
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Hardstyle
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Romantic
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Indie
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Goa
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Eurodance
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Kizomba
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Folk
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Hardcore
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Celtic
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Americana
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            New Wave
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Goth
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Electro
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Soundtracks
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Jungle
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Jewish
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Opera
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Indian
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Punk
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Downtempo
+          </button>
+          <button
+            className="btn btn-default btn-xs"
+          >
+            Garage
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

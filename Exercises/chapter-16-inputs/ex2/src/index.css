@@ -1,0 +1,11 @@
+* {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 18px;
+}
+h1 {
+  font-size: 2em;
+}
+label {
+  margin-bottom: 0.5em;
+  display: block;
+}

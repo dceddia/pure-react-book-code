@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  padding: 20px;
+  font-size: 14px;
+}
+
+ul {
+  margin: 0;
+}
+li {
+  list-style: none;
+}
+
+.board {
+  display: flex;
+}
+.board > * {
+  margin: 10px;
+}
+
+.card {
+  width: 234px;
+}
+
+.follow-btn {
+  background-color: #bd081c;
+  width: 100%;
+  height: 35px;
+  color: #fff;
+  border-radius: 4px;
+  border: none;
+}
+
+.title {
+  font-size: 16px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 0;
+  color: #555;
+}
+
+.pin-count {
+  color: #999;
+  font-size: 12px;
+}
+.pin-count > strong {
+  font-weight: 500;
+}
+
+.images {
+  display: flex;
+  flex-flow: row wrap;
+  width: 234px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.summary {
+  margin: 12px 10px;
+}
+
+img.main {
+  flex-basis: 234px;
+}
+
+img.sub1, img.sub2 {
+  flex-basis: 117px;
+}
+
+.images > * {
+  padding: 1px;
+  flex: 1 100%;
+  height: 111px;
+}
+
+

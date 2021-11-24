@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  padding: 20px;
+  font-size: 14px;
+}
+
+.genre-cloud {
+  text-align: center;
+}
+
+.genre-cloud button {
+  margin: 3px 8px;
+}
+
+.genre-cloud .panel-heading {
+  text-align: left;
+}
